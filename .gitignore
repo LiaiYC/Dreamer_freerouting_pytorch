@@ -1,0 +1,20 @@
+﻿# Large experiment outputs
+logdir/
+
+# Local upstream snapshot (contains nested .git)
+.upstream_dreamerv3/
+
+# Virtual environments and caches
+.venv/
+**/.venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# OS/editor
+.DS_Store
+Thumbs.db
+
+# Java/Python build artifacts
+freerouting/build/
+*.pkl

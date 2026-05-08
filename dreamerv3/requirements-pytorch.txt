@@ -1,0 +1,11 @@
+﻿# PyTorch-only dependencies for Freerouting benchmark / RL probe.
+#
+# CPU install:
+#   pip install -U -r requirements-pytorch.txt
+#
+# CUDA install examples (choose one that matches your driver/toolkit):
+#   pip install -U --index-url https://download.pytorch.org/whl/cu124 -r requirements-pytorch.txt
+#   pip install -U --index-url https://download.pytorch.org/whl/cu121 -r requirements-pytorch.txt
+
+numpy<2
+torch>=2.4,<3

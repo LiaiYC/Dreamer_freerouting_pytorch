@@ -1,0 +1,288 @@
+{
+  "$schema": "https://schemas.kicad.org/drc.v1.json",
+  "coordinate_units": "mm",
+  "date": "2026-02-09T15:40:08.806219+08:00",
+  "kicad_version": "N/A",
+  "freerouting_version": "Freerouting 2.1.2-SNAPSHOT",
+  "source": "Issue026-J2_reference.dsn",
+  "unconnected_items": [
+    {
+      "description": "Unconnected items: Pin [GND] and Pin [GND] (2 total items in net)",
+      "items": [
+        {
+          "description": "Pin [GND]",
+          "pos": {
+            "x": 108.41,
+            "y": -83.55
+          },
+          "uuid": "74"
+        },
+        {
+          "description": "Pin [GND]",
+          "pos": {
+            "x": 108.41,
+            "y": -86.55
+          },
+          "uuid": "71"
+        }
+      ],
+      "severity": "warning",
+      "type": "unconnected_items"
+    },
+    {
+      "description": "Unconnected items: Pin [/MIPI_CSI_D0_N] and Pin [/MIPI_CSI_D0_N] (2 total items in net)",
+      "items": [
+        {
+          "description": "Pin [/MIPI_CSI_D0_N]",
+          "pos": {
+            "x": 108.41,
+            "y": -91.55
+          },
+          "uuid": "66"
+        },
+        {
+          "description": "Pin [/MIPI_CSI_D0_N]",
+          "pos": {
+            "x": 130.075,
+            "y": -91.525
+          },
+          "uuid": "10"
+        }
+      ],
+      "severity": "warning",
+      "type": "unconnected_items"
+    },
+    {
+      "description": "Unconnected items: Pin [/MIPI_CSI_CLK_N] and Pin [/MIPI_CSI_CLK_N] (2 total items in net)",
+      "items": [
+        {
+          "description": "Pin [/MIPI_CSI_CLK_N]",
+          "pos": {
+            "x": 108.41,
+            "y": -85.55
+          },
+          "uuid": "72"
+        },
+        {
+          "description": "Pin [/MIPI_CSI_CLK_N]",
+          "pos": {
+            "x": 127.565,
+            "y": -91.925
+          },
+          "uuid": "11"
+        }
+      ],
+      "severity": "warning",
+      "type": "unconnected_items"
+    },
+    {
+      "description": "Unconnected items: Pin [/MIPI_CSI_D0_P] and Pin [/MIPI_CSI_D0_P] (2 total items in net)",
+      "items": [
+        {
+          "description": "Pin [/MIPI_CSI_D0_P]",
+          "pos": {
+            "x": 108.41,
+            "y": -90.55
+          },
+          "uuid": "67"
+        },
+        {
+          "description": "Pin [/MIPI_CSI_D0_P]",
+          "pos": {
+            "x": 130.075,
+            "y": -90.725
+          },
+          "uuid": "12"
+        }
+      ],
+      "severity": "warning",
+      "type": "unconnected_items"
+    },
+    {
+      "description": "Unconnected items: Pin [/MIPI_CSI_CLK_P] and Pin [/MIPI_CSI_CLK_P] (2 total items in net)",
+      "items": [
+        {
+          "description": "Pin [/MIPI_CSI_CLK_P]",
+          "pos": {
+            "x": 108.41,
+            "y": -84.55
+          },
+          "uuid": "73"
+        },
+        {
+          "description": "Pin [/MIPI_CSI_CLK_P]",
+          "pos": {
+            "x": 127.565,
+            "y": -91.125
+          },
+          "uuid": "13"
+        }
+      ],
+      "severity": "warning",
+      "type": "unconnected_items"
+    },
+    {
+      "description": "Unconnected items: Pin [/MIPI_CSI_D1_N] and Pin [/MIPI_CSI_D1_N] (2 total items in net)",
+      "items": [
+        {
+          "description": "Pin [/MIPI_CSI_D1_N]",
+          "pos": {
+            "x": 108.41,
+            "y": -88.55
+          },
+          "uuid": "69"
+        },
+        {
+          "description": "Pin [/MIPI_CSI_D1_N]",
+          "pos": {
+            "x": 130.075,
+            "y": -89.125
+          },
+          "uuid": "16"
+        }
+      ],
+      "severity": "warning",
+      "type": "unconnected_items"
+    },
+    {
+      "description": "Unconnected items: Pin [/MIPI_CSI_D1_P] and Pin [/MIPI_CSI_D1_P] (2 total items in net)",
+      "items": [
+        {
+          "description": "Pin [/MIPI_CSI_D1_P]",
+          "pos": {
+            "x": 108.41,
+            "y": -87.55
+          },
+          "uuid": "70"
+        },
+        {
+          "description": "Pin [/MIPI_CSI_D1_P]",
+          "pos": {
+            "x": 130.075,
+            "y": -88.325
+          },
+          "uuid": "18"
+        }
+      ],
+      "severity": "warning",
+      "type": "unconnected_items"
+    },
+    {
+      "description": "Unconnected items: Pin [/MIPI_CSI_MCLK] and Pin [/MIPI_CSI_MCLK] (2 total items in net)",
+      "items": [
+        {
+          "description": "Pin [/MIPI_CSI_MCLK]",
+          "pos": {
+            "x": 108.41,
+            "y": -81.55
+          },
+          "uuid": "76"
+        },
+        {
+          "description": "Pin [/MIPI_CSI_MCLK]",
+          "pos": {
+            "x": 130.075,
+            "y": -86.725
+          },
+          "uuid": "22"
+        }
+      ],
+      "severity": "warning",
+      "type": "unconnected_items"
+    },
+    {
+      "description": "Unconnected items: Pin [/I2C_SDA] and Pin [/I2C_SDA] (2 total items in net)",
+      "items": [
+        {
+          "description": "Pin [/I2C_SDA]",
+          "pos": {
+            "x": 108.41,
+            "y": -79.55
+          },
+          "uuid": "78"
+        },
+        {
+          "description": "Pin [/I2C_SDA]",
+          "pos": {
+            "x": 130.075,
+            "y": -85.125
+          },
+          "uuid": "26"
+        }
+      ],
+      "severity": "warning",
+      "type": "unconnected_items"
+    },
+    {
+      "description": "Unconnected items: Pin [/I2C_SCL] and Pin [/I2C_SCL] (2 total items in net)",
+      "items": [
+        {
+          "description": "Pin [/I2C_SCL]",
+          "pos": {
+            "x": 108.41,
+            "y": -80.55
+          },
+          "uuid": "77"
+        },
+        {
+          "description": "Pin [/I2C_SCL]",
+          "pos": {
+            "x": 130.075,
+            "y": -84.325
+          },
+          "uuid": "28"
+        }
+      ],
+      "severity": "warning",
+      "type": "unconnected_items"
+    },
+    {
+      "description": "Unconnected items: Pin [/MIPI_CSI_CAM_PWDN] and Pin [/MIPI_CSI_CAM_PWDN] (2 total items in net)",
+      "items": [
+        {
+          "description": "Pin [/MIPI_CSI_CAM_PWDN]",
+          "pos": {
+            "x": 108.41,
+            "y": -82.55
+          },
+          "uuid": "75"
+        },
+        {
+          "description": "Pin [/MIPI_CSI_CAM_PWDN]",
+          "pos": {
+            "x": 127.565,
+            "y": -84.725
+          },
+          "uuid": "29"
+        }
+      ],
+      "severity": "warning",
+      "type": "unconnected_items"
+    },
+    {
+      "description": "Unconnected items: Pin [+3V3] and Pin [+3V3] (2 total items in net)",
+      "items": [
+        {
+          "description": "Pin [+3V3]",
+          "pos": {
+            "x": 108.41,
+            "y": -78.55
+          },
+          "uuid": "79"
+        },
+        {
+          "description": "Pin [+3V3]",
+          "pos": {
+            "x": 127.565,
+            "y": -82.325
+          },
+          "uuid": "35"
+        }
+      ],
+      "severity": "warning",
+      "type": "unconnected_items"
+    }
+  ],
+  "violations": [],
+  "schematic_parity": []
+}
